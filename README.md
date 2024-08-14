@@ -1,11 +1,8 @@
 # Youssef Saleh
-## A .NET Developer (ASP.NET Core)
 
-<div>
+## A Junior .NET Developer (ASP.NET Core)
 
-  [![Download My Resume]][Shield]
-
-</div>
+[![Download My Resume]][Shield]
 
 <!---------------------------------------------------------------------------->
 
@@ -13,5 +10,7 @@
 [Shield]: https://github.com/yussuf-codes/yussuf-codes/raw/master/Youssef%20Saleh's%20resume/Youssef%20Saleh's%20resume.pdf
 
 <!---------------------------------------------------------------------------->
+
+
 ## My Teck Stack
-[![My Skills](https://skillicons.dev/icons?i=dotnet,rider,py,vscode,linux,bash,docker,azure,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py,vscode,linux,bash,docker,azure,git,github&theme=light)](https://skillicons.dev)
