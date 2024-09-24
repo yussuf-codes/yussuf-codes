@@ -14,5 +14,5 @@
 <!---------------------------------------------------------------------------->
 
 
-## My Teck Stack
+## My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,vscode,linux,bash,docker,azure,git,github&theme=light)](https://skillicons.dev)
