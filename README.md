@@ -4,7 +4,7 @@
 
 ## Focused on modular, reusable software components that enhance maintainability and scalability, rather than big and complex projects, eager to learn about different software architectures and system design concepts.
 
-[![Download My Resume]][Shield]
+[![Download My Résumé]][Shield]
 
 <!---------------------------------------------------------------------------->
 
