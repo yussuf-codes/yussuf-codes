@@ -1,8 +1,6 @@
 # Youssef Saleh
 
-## A Junior Backend Developer (ASP.NET Core)
-
-## Focused on modular, reusable software components that enhance maintainability and scalability, eager to learn about different software architectures and system design concepts.
+## A DevOps Engineer
 
 [![Download My Resume]][Shield]
 
@@ -13,6 +11,5 @@
 
 <!---------------------------------------------------------------------------->
 
-
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=dotnet,rider,py,vscode,linux,bash,docker,azure,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,git,github,docker,kubernetes,aws,terraform,ansible,githubactions&theme=light)](https://skillicons.dev)
